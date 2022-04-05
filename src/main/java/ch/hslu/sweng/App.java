@@ -12,8 +12,7 @@ public class App
         System.out.println( "this is a demo" );
         System.out.println( "------------------" );
         System.out.println( "------------------" );
-        System.out.println( "------------------" );
-        System.out.println( "------------------" );
+
 
     }
 }
